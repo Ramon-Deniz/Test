@@ -27,7 +27,7 @@ public class Square {
 	 * fsdfsdfsdf
 	 */
 	public static void foo() {
-		String s = String.format("%-10s %5.2f", "Miguel", 3.141592654);
+		String s = String.format("%-10s %5.2f", "Bob B. Bobby", 3.141592654);
 		String ss = String.format("%-10s %5.2f", "ABCD", 3.141592654);
 		String sss = String.format("%-10s %5.2f", "Bob", 12.123456789);
 		
